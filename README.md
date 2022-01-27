@@ -3,5 +3,5 @@ Developed using JavaScript, this website finds your location and places it on a 
 The use can record their outdoor activities such as runnning or cycling and the application records it on the map.  
 Developed through the Complete Javascript Course on Udemy. 
 
+![logo](https://user-images.githubusercontent.com/45776810/151304418-889151e0-338e-4058-8d41-673f69d6235d.png)
 
-C:\Users\Tyler\Desktop\Stuff\complete-javascript-course-master\15-Mapty\starter\Mapty-architecture-final.png
